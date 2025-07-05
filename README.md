@@ -25,7 +25,7 @@ This repository is a collection of my SQL learning journey, where I have covered
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/sql-learning.git
+   git clone https://github.com/Dharmendra810/MySQL-Learning
    ```
 
 2. Open the `.sql` files using any SQL editor (MySQL Workbench, DBeaver, DataGrip, etc.)
